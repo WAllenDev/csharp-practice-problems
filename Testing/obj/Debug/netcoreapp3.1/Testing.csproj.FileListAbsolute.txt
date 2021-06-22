@@ -1,0 +1,26 @@
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+D:\Repositories\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+D:\Repositories\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+D:\Projects\Software\Tools and Snippets\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+D:\Projects\Software\Tools and Snippets\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
